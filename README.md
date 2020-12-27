@@ -1,3 +1,2 @@
-## Gihub Overview
-![roughweed's github stat](https://github-readme-stats.vercel.app/api?username=roughweed&show_icons=true)<br>
-![roughweed's github language](https://github-readme-stats.vercel.app/api/top-langs/?username=roughweed&layout=compact)
+# Overview
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rougweed&count_private=true&show_icons=true&theme=nord)
